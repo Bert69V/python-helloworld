@@ -1,4 +1,4 @@
-FROM python:3.1
+FROM python:3
 LABEL maintainer="Bert69"
 
 COPY . /app
